@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "jekyll-theme-chirpy",
   "version": "7.2.4",
   "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
@@ -139,5 +140,31 @@
       ],
       "@semantic-release/github"
     ]
+=======
+  "name": "minimal-mistakes",
+  "private": true,
+  "version": "4.26.2",
+  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmistakes/minimal-mistakes.git"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "minimal"
+  ],
+  "author": "Michael Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+  },
+  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.17.4"
+>>>>>>> c0191c003d85b245676448d8b968993d753ce5c3
   }
 }

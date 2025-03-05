@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: page
 # The Category layout
 ---
@@ -21,4 +22,14 @@ layout: page
       </li>
     {% endfor %}
   </ul>
+=======
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
+>>>>>>> c0191c003d85b245676448d8b968993d753ce5c3
 </div>

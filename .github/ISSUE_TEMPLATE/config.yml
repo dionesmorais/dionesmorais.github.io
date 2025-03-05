@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+<<<<<<< HEAD
   - name: Ask the community for help
     url: https://github.com/cotes2020/jekyll-theme-chirpy/discussions
     about: Please ask and answer questions here.
+=======
+  - name: Support
+    url: https://github.com/mmistakes/minimal-mistakes/discussions
+    about: Please post your support questions in the Discussions section.
+>>>>>>> c0191c003d85b245676448d8b968993d753ce5c3

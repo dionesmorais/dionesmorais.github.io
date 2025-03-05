@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bundler cache
 .bundle
 vendor
@@ -25,3 +26,37 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+=======
+# Vim
+*~
+*.sw[p_]
+
+# IntelliJ IDEA
+*.idea
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
+.DS_Store
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+>>>>>>> c0191c003d85b245676448d8b968993d753ce5c3

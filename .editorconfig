@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 root = true
 
 [*]
@@ -14,6 +15,18 @@ quote_type = single
 
 [*.{yml,yaml}]
 quote_type = double
+=======
+# editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+>>>>>>> c0191c003d85b245676448d8b968993d753ce5c3
 
 [*.md]
 trim_trailing_whitespace = false
