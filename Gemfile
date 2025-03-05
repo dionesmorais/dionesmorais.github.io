@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # frozen_string_literal: true
 
 source "https://rubygems.org"
@@ -13,7 +12,5 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-=======
 source "https://rubygems.org"
 gemspec
->>>>>>> c0191c003d85b245676448d8b968993d753ce5c3
